@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         utils4.2.7
 // @namespace    oxword
-// @version      4.4
+// @version      4.5
 // @description  Idcmr+time
 // @author       oxword
 // @match        https://wms.wbwh.tech/shk/status/history?shk=*
