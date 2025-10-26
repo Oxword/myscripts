@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         utils4.2.7
 // @namespace    oxword
-// @version      4.5
+// @version      4.6
 // @description  Idcmr+time
 // @author       oxword
 // @match        https://wms.wbwh.tech/shk/status/history?shk=*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/Oxword/myscripts/main/utils4.2.7.user.js
+// @updateURL    https://github.com/Oxword/myscripts/raw/refs/heads/main/utils4.2.7.user.js
 // ==/UserScript==
 
 (function () {
